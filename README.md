@@ -1,3 +1,5 @@
+zh/material-system/effect-syntax.md
+
 # Cocos Creator 3D User Manual
 
 ## Requirements
